@@ -1,0 +1,4 @@
+#Sat Jun 22 11:47:15 TRT 2024
+base.0=C\:\\Users\\fatih\\StudioProjects\\google_bootcamp_60\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
